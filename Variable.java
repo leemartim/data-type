@@ -11,6 +11,6 @@ public class Variable {
 		String c = "Hello World"; // String문자열  ... 
 		System.out.println(c); 
 	}
-
+ 
 }
  
