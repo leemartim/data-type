@@ -12,7 +12,7 @@ public class Casting{
         // int c = 1.1; // b와 반대이지만 이러한 경우 .1이 탈락되는 현상이 있기에 error를 띄움 
         double d = 1.1;
         int e = (int) 1.1; // .1이 탈락하는 현상이 발생함 
-        System.out.println(e);
+        System.out.println(e); 
          
         // 1 to String 
         String f = Integer.toString(1); // 정수 1을 문자열로 바꿔주는 것 
@@ -20,3 +20,4 @@ public class Casting{
 	}
 
 }
+ 
